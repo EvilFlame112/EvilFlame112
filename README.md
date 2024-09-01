@@ -1,4 +1,6 @@
-<center> # Hi I am A Ramnarayan </center>
+<div align="center">
+  # Hi I am A Ramnarayan
+</div>
 And welcome to my page
 
 # 💫 About Me:
