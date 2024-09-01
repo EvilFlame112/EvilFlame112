@@ -1,4 +1,4 @@
-<div align = center style="font-style: bold; text-align: center;" markdown="1">
+<div align = center font-style = bold>
   # Hi I am A Ramnarayan
 </div>
 And welcome to my page
