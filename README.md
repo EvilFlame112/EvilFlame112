@@ -1,7 +1,8 @@
 <div align = center font-style = bold>
   <h1>Hi I am A Ramnarayan</h1> 
+  And welcome to my page
 </div>
-And welcome to my page
+
 
 # 💫 About Me:
 🔭 I’m currently working on : Project_coffee <br>🤝 I’m looking for help with : Multi user connection and interaction on website<br>🌱 I’m currently learning : Firebase, Flask
