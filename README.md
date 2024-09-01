@@ -1,4 +1,4 @@
-<div style="text-align: center;" markdown="1">
+<div align = center style="text-align: center;" markdown="1">
   # Hi I am A Ramnarayan
 </div>
 And welcome to my page
