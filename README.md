@@ -1,5 +1,5 @@
 <div align = center font-style = bold>
-  # Hi I am A Ramnarayan
+  <h1>Hi I am A Ramnarayan</h1> 
 </div>
 And welcome to my page
 
